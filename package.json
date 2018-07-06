@@ -1,0 +1,31 @@
+{
+  "name": "apivalidationwrapper",
+  "version": "1.0.0",
+  "description": "API validation middleware for express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViswanathL/APIValidationWrapper.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Express",
+    "http",
+    "API"
+  ],
+  "author": "Viswanath Lekshmanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViswanathL/APIValidationWrapper/issues"
+  },
+  "homepage": "https://github.com/ViswanathL/APIValidationWrapper#readme",
+  "dependencies": {
+    "express": "4.16.3",
+    "body-parser": "~1.16.0",
+    "express-validator": "^3.1.2"
+  }
+}
