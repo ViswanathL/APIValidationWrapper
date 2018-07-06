@@ -1,5 +1,5 @@
 # APIValidationWrapper
-Express validator wrapper as middleware with custom validations support
+[ExpressValidator](https://express-validator.github.io/docs/custom-validators-sanitizers.html) wrapper as middleware with custom validations support
 
    - Add just a json metadata for each API 
    
